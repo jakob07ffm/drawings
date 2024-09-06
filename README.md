@@ -1,2 +1,3 @@
 # Sketching
 This repo shows the process of me learning how to sketch...
+![](IMG_1852.jpg)
